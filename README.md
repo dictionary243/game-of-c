@@ -47,4 +47,4 @@ Now you can't just simply keep scoring runs, then the game will be infinite (unl
 Let's say that you scored about 23 runs. You want to score a 6. So you throw a 6-but unfortunately, your friend also threw a 6. And boom, you're out. Now the bowler gets to bat and you get to bowl, and the batter's target is the previous score+1, so in this case, 24 (23+1).
 And if he scored about 20 and he thinks of placing a 2 and you also place a 2, then he is out and you win the match! Now you can just start all over by asking "Odd or even". 
 
-these are the steps for real life my game is exact same the diffrence is opponent of urs will be computer
+these are the steps this is how it is being played in real life,  my game is on the same concept the only diffrence is opponent of urs will be computer.
